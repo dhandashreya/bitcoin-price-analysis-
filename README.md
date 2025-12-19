@@ -44,4 +44,18 @@ This project uses the published dataset and does not modify the original data ge
 
 ---
 
+
 ## 📁 Project Structure
+This repository is organized to follow a clear data analysis workflow:
+
+- `data/` – raw and processed datasets  
+- `notebooks/` – Jupyter notebooks for analysis and modeling  
+- `dashboard/` – dashboard files (Power BI)  
+- `src/` – reusable helper functions (to be added later)
+
+---
+
+## 🚀 Current Status
+Project setup completed.  
+Data loading and exploratory analysis in progress.
+
