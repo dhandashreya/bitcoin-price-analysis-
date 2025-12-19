@@ -10,7 +10,6 @@ This project is being developed alongside learning to ensure hands-on, practical
 
 ## 📊 Data Source
 - **Dataset:** Bitcoin Historical Data (Kaggle)
-- **Author:** mczielinski  
 - **Kaggle Link:** https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
 
 The dataset provides daily Bitcoin prices including Open, High, Low, Close, Volume, and Market Capitalization.
